@@ -1,7 +1,11 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
+## DEMO Live
+https://xpytix.github.io/kick-it-sk8/
+
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
