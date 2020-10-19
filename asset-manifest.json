@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kick-it-sk8/static/css/main.2890e824.chunk.css",
+    "main.js": "/kick-it-sk8/static/js/main.d56134a2.chunk.js",
+    "main.js.map": "/kick-it-sk8/static/js/main.d56134a2.chunk.js.map",
+    "runtime-main.js": "/kick-it-sk8/static/js/runtime-main.e366a0dc.js",
+    "runtime-main.js.map": "/kick-it-sk8/static/js/runtime-main.e366a0dc.js.map",
+    "static/js/2.e585e35c.chunk.js": "/kick-it-sk8/static/js/2.e585e35c.chunk.js",
+    "static/js/2.e585e35c.chunk.js.map": "/kick-it-sk8/static/js/2.e585e35c.chunk.js.map",
+    "index.html": "/kick-it-sk8/index.html",
+    "precache-manifest.73595585e64d635271debfe2f5caa502.js": "/kick-it-sk8/precache-manifest.73595585e64d635271debfe2f5caa502.js",
+    "service-worker.js": "/kick-it-sk8/service-worker.js",
+    "static/css/main.2890e824.chunk.css.map": "/kick-it-sk8/static/css/main.2890e824.chunk.css.map",
+    "static/js/2.e585e35c.chunk.js.LICENSE.txt": "/kick-it-sk8/static/js/2.e585e35c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kick-it-sk8/static/media/logo.5d5d9eef.svg",
+    "static/media/index.css": "/kick-it-sk8/static/media/skateboard_medium.294c08d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e366a0dc.js",
+    "static/js/2.e585e35c.chunk.js",
+    "static/css/main.2890e824.chunk.css",
+    "static/js/main.d56134a2.chunk.js"
+  ]
+}
